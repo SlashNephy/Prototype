@@ -23,7 +23,7 @@ dependencies {
 
     compile("no.tornado:tornadofx:1.7.17")
 
-    compile("jp.nephy:penicillin:3.0.9")
+    compile("jp.nephy:penicillin:3.0.10")
     compile("org.jetbrains.kotlinx:atomicfu:0.11.3")
 
     compile("io.github.microutils:kotlin-logging:1.5.9")
