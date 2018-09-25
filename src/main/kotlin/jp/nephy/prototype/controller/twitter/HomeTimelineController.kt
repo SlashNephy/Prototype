@@ -37,7 +37,7 @@ class HomeTimelineController: TimelineController<Status>(), Closeable {
                     logger.warn { "UserStreamから切断されました: @${account.user.screenName}" }
                 }
 
-                override suspend fun onRawJson(json: JsonObject) {
+                override suspend fun onAnyJson(json: JsonObject) {
                     logger.debug { "Json (@${account.user.screenName}) -> $json" }
                 }
             }).start(wait = false, autoReconnect = true).use {
