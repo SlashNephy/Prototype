@@ -29,7 +29,7 @@ dependencies {
     compile("org.jetbrains.kotlinx:atomicfu:0.11.3")
 
     compile("io.github.microutils:kotlin-logging:1.5.9")
-    compile("ch.qos.logback:logback-core:1.2.3")
+    compile("ch.qos.logback:logback-core:1.2.11")
     compile("ch.qos.logback:logback-classic:1.2.3")
     compile("org.fusesource.jansi:jansi:1.17.1")
 }
