@@ -26,7 +26,7 @@ dependencies {
     compile("org.kordamp.bootstrapfx:bootstrapfx-core:0.2.3")
 
     compile("jp.nephy:penicillin:3.0.14")
-    compile("org.jetbrains.kotlinx:atomicfu:0.11.3")
+    compile("org.jetbrains.kotlinx:atomicfu:0.17.2")
 
     compile("io.github.microutils:kotlin-logging:1.5.9")
     compile("ch.qos.logback:logback-core:1.2.3")
