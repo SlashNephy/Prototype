@@ -21,7 +21,7 @@ repositories {
 dependencies {
     compile(kotlin("stdlib-jdk8"))
 
-    compile("no.tornado:tornadofx:1.7.17")
+    compile("no.tornado:tornadofx:1.7.20")
     compile("de.jensd:fontawesomefx:8.9")
     compile("org.kordamp.bootstrapfx:bootstrapfx-core:0.2.3")
 
