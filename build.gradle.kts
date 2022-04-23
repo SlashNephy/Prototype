@@ -25,7 +25,7 @@ dependencies {
     compile("de.jensd:fontawesomefx:8.9")
     compile("org.kordamp.bootstrapfx:bootstrapfx-core:0.2.3")
 
-    compile("jp.nephy:penicillin:3.0.14")
+    compile("jp.nephy:penicillin:3.3.4")
     compile("org.jetbrains.kotlinx:atomicfu:0.11.3")
 
     compile("io.github.microutils:kotlin-logging:1.5.9")
