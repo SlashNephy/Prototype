@@ -23,7 +23,7 @@ dependencies {
 
     compile("no.tornado:tornadofx:1.7.17")
     compile("de.jensd:fontawesomefx:8.9")
-    compile("org.kordamp.bootstrapfx:bootstrapfx-core:0.2.3")
+    compile("org.kordamp.bootstrapfx:bootstrapfx-core:0.4.0")
 
     compile("jp.nephy:penicillin:3.0.14")
     compile("org.jetbrains.kotlinx:atomicfu:0.11.3")
